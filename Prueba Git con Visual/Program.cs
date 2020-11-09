@@ -6,7 +6,7 @@ namespace Prueba_Git_con_Visual
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Adios World!");
+            Console.WriteLine("Adio World!");
         }
     }
 }
